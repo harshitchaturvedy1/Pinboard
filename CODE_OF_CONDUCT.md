@@ -27,7 +27,7 @@ This applies in all project spaces — GitHub issues, PRs, discussions, and any 
 
 ## Enforcement
 
-Violations can be reported to **conduct@stemsprouts.org**. All reports will be handled confidentially. Maintainers reserve the right to remove comments, close issues, or ban contributors who violate this code.
+Violations can be reported to **stemsproutsamerica@gmail.com**. All reports will be handled confidentially. Maintainers reserve the right to remove comments, close issues, or ban contributors who violate this code.
 
 ## Attribution
 
