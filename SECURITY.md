@@ -11,7 +11,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-If you discover a security vulnerability in Pinboard, please email us at **security@stemsprouts.org**.
+If you discover a security vulnerability in Pinboard, please email us at **stemsproutsamerica@gmail.com**.
 
 Include:
 - A description of the vulnerability
