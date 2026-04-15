@@ -1,12 +1,3 @@
-<div align="center">
-
-<img src="https://img.shields.io/badge/STEM%20Sprouts-501(c)(3)-brightgreen?style=flat-square" alt="501c3"/>
-<img src="https://img.shields.io/badge/TypeScript-84%25-3178C6?style=flat-square&logo=typescript" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License"/>
-<img src="https://img.shields.io/badge/platforms-Arduino%20%7C%20Raspberry%20Pi%20%7C%20ESP32%20(soon)-orange?style=flat-square" alt="Platforms"/>
-<img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"/>
-
-<br/><br/>
 
 ```
  ____  _       _                         _
