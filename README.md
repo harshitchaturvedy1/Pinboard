@@ -9,7 +9,7 @@
 
 **A block-based IDE for Arduino, Raspberry Pi, and ESP32 — built for the classroom.**
 
-[🚀 Try Pinboard](https://pinboard.stemsprouts.org) · [📖 Docs](https://docs.stemsprouts.org) · [❤️ Donate](https://hcb.hackclub.com/donations/start/stem-sprouts) · [🐛 Report a Bug](https://github.com/stemsprouts/pinboard/issues)
+[🚀 Try Pinboard](https://pinboard.stemsprouts.org) · [📖 Docs](https://docs.stemsprouts.org) · [❤️ Donate](https://hcb.hackclub.com/donations/start/stem-sprouts) · [🐛 Report a Bug](https://github.com/STEM-Sprouts/pinboard/issues)
 
 </div>
 
@@ -86,7 +86,7 @@ No install needed → **[pinboard.stemsprouts.org](https://pinboard.stemsprouts.
 ### Run locally
 
 ```bash
-git clone https://github.com/stemsprouts/pinboard.git
+git clone https://github.com/STEM-Sprouts/pinboard.git
 cd pinboard
 npm install
 npm run dev
@@ -133,8 +133,8 @@ We welcome contributions! Pinboard is built by a small team and there's always m
 **Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.**
 
 Quick ways to help:
-- 🐛 [Report bugs](https://github.com/stemsprouts/pinboard/issues/new?template=bug_report.md)
-- 💡 [Suggest features](https://github.com/stemsprouts/pinboard/issues/new?template=feature_request.md)
+- 🐛 [Report bugs](https://github.com/STEM-Sprouts/pinboard/issues/new?template=bug_report.md)
+- 💡 [Suggest features](https://github.com/STEM-Sprouts/pinboard/issues/new?template=feature_request.md)
 - 🧩 Add new hardware module blocks
 - 🌍 Translate the UI
 - 📖 Improve documentation
@@ -153,7 +153,7 @@ All donations go directly to running programs, hardware kits for students, and i
 
 ## 📄 License
 
-MIT © [STEM Sprouts](https://stemsprouts.org)
+MIT © [STEM Sprouts](https://stems-prouts.org)
 
 Pinboard is free and open source. Built with [Google Blockly](https://github.com/google/blockly) and [WebSerial API](https://developer.chrome.com/docs/capabilities/serial).
 
